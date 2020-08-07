@@ -39,7 +39,7 @@ public class BuyerProductController {
 
         //2. 查询类目(一次性查询)
 //        List<Integer> categoryTypeList = new ArrayList<>();
-        // 传统方法
+        //  传统方法
 //        for (ProductInfo productInfo : productInfoList) {
 //            categoryTypeList.add(productInfo.getCategoryType());
 //        }
