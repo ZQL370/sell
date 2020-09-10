@@ -9,6 +9,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  * 用于微信授权的controller接口
+ * 手动授权
  */
 @RestController
 @RequestMapping("/weixin")
